@@ -12,4 +12,4 @@ Retail Analytics SQL Project - Analyzes retail store sales, inventory, and custo
 ## Excel Projects: 
 All India Index Dataset - Statistical analysis of key indices across India.
 
-Whether you're interested in interactive Power BI dashboards, SQL-based data manipulation, or structured Excel reports, this repository serves as a valuable resource for data-driven decision-making.
+### Whether you're interested in interactive Power BI dashboards, SQL-based data manipulation, or structured Excel reports, this repository serves as a valuable resource for data-driven decision-making.
